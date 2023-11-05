@@ -1,7 +1,7 @@
 ## MariaDB 
 
 ### PN532 module library
-libnfc | pynfc
+libnfc & pynfc
 
 ### MariaDB library Setting
 mysql-connector-python
