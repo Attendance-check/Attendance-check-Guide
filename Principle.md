@@ -1,6 +1,6 @@
 1. NFC 리더 및 라즈베리 파이 설정: NFC 리더를 라즈베리 파이에 연결하고, 라즈베리 파이에서 NFC 카드의 정보를 읽기 위한 설정
 
-2. Node.js 및 MariaDB 연결 설정: 라즈베리 파이에서 Node.js를 사용하여 MariaDB와 연결하고, 데이터를 삽입할 수 있는 연결을 설정 ``` pip install mysql```
+2. Node.js 및 MariaDB 연결 설정: 라즈베리 파이에서 Node.js를 사용하여 MariaDB와 연결하고, 데이터를 삽입할 수 있는 연결을 설정 ``` pip install mysql``` 
 
 3. NFC 데이터 MariaDB로 전송: NFC 카드의 고유번호를 읽은 후, Node.js 애플리케이션을 사용하여 MariaDB로 해당 데이터 전송 라즈베리파이에서 Node.js 실행
 
